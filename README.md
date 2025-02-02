@@ -6,28 +6,28 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [sreesha T S ] - [college of engineering munnar]
+- Member 2: [sana K R] - [college of engineering munnar]
+- Member 3: [ jinisha] - [college of engineering munnar]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project is a simple calculator that solves simple mathematical problems.We have variety options like addition, subtraction, division and multiplication.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+mathematical problems.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+Simple calculator.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
+- [Languages css,html,javascript]
+- [Frameworks ].vscode
+- [Libraries css,html,javascript used]
 - [Tools used]
 
 For Hardware:
