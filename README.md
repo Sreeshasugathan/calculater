@@ -8,7 +8,7 @@
 ### Team Members
 - Member 1: Sreesha T S  - College of Engineering Munnar
 - Member 2: Sana K R - College of Engineering Munnar
-- Member 3: Jinisha - College of Engineering Munnar
+- Member 3: Fathima Jinisha - College of Engineering Munnar
 
 ### Hosted Project Link
 https://sreeshasugathan.github.io/calculator/
@@ -41,53 +41,29 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (24)](https://github.com/user-attachments/assets/cbb773cd-b5dc-4ab1-b056-fba1a023fb2a)
+Interface of Simple Calculator
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot (23)](https://github.com/user-attachments/assets/8e99dce7-b7a3-437f-8647-db9055e604a3)
+Calculating numbers
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+[Team](Add photo of your team here)
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+
+(https://drive.google.com/file/d/14Qxf-nbgWrSkM9jqzifMDccuOvn-ogP8/view?usp=sharing)
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Sreesha T S: coding
+- Sana K R: coding
+- Fathima Jinisha: coding
 
 ---
 Made with ❤️ at TinkerHub
