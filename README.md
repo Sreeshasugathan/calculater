@@ -1,17 +1,17 @@
-# [Project Name] 🎯
+# Simple Calculator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Group
 
 
 ### Team Members
-- Member 1: [sreesha T S ] - [college of engineering munnar]
-- Member 2: [sana K R] - [college of engineering munnar]
-- Member 3: [ jinisha] - [college of engineering munnar]
+- Member 1: Sreesha T S  - College of Engineering Munnar
+- Member 2: Sana K R - College of Engineering Munnar
+- Member 3: Jinisha - College of Engineering Munnar
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://sreeshasugathan.github.io/calculator/
 
 ### Project Description
 Our project is a simple calculator that solves simple mathematical problems.We have variety options like addition, subtraction, division and multiplication.
@@ -25,15 +25,9 @@ Simple calculator.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages css,html,javascript]
-- [Frameworks ].vscode
-- [Libraries css,html,javascript used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Languages : css,html,javascript
+- Frameworks :vscode
+- Libraries : css,html,javascript 
 
 ### Implementation
 For Software:
